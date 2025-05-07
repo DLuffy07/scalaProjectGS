@@ -22,7 +22,7 @@ Installation
 
     Clonez le repository :
 
-git clone https://github.com/toncompte/scalaProjectGS.git
+git clone https://github.com/DLuffy07/scalaProjectGS.git
 
 Accédez au dossier du projet :
 
